@@ -23,7 +23,7 @@ class App extends Component {
    
     return(
       <div>
-        이 실습시간에 만들어보기
+        App
       </div>
     );
 
