@@ -1,6 +1,6 @@
 # 실습시간에 만들어보기
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. React 로 만들어보기
 
 ## Available Scripts
 
