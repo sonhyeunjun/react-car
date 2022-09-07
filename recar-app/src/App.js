@@ -10,20 +10,20 @@ class App extends Component {
     }
   }
 
-  _getCarInfo = async() => {
-    const res = await axios.get('/api/getCarInfo');
+  _getStudentInfo = async() => {
+    const res = await axios.get('/api/getStudentInfo');
     console.log(res);
   }
 
   componentDidMount() {
-    this._getCarInfo();
+    this._getStudentInfo();
   }
 
   render() {
    
     return(
       <div>
-        App
+        학생(성적,과목) 데이터 불러오기
       </div>
     );
 
