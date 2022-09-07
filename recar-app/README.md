@@ -1,7 +1,7 @@
 # 실습시간에 만들어보기
 
 1. React 로 만들어보기
-2.
+2. DB 데이터 출력
 
 ## Available Scripts
 
