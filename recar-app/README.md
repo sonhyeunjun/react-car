@@ -2,6 +2,7 @@
 
 1. React 로 만들어보기
 2. DB 데이터 출력
+3. DB 데이터를 추가하기
 
 ## Available Scripts
 
